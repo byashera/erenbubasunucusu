@@ -2,7 +2,7 @@
 
 [Update]
 Name = Eren Sikiþ Modu
-ProductVersion = 1.1.0.0
+ProductVersion = 1.2.0.0
 URL = https://github.com/byashera/erenbubasunucusu/releases/download/1.1.0/erensikismoduv1.1update.exe
 Size = 12464658
 SHA256 = C544BD3F6AC7B5371A2E1E4C086BE923AB6DB2D4B58A0BE21E9883EA6A6B7391
@@ -10,7 +10,7 @@ MD5 = 83c3220bf9e59f0d13f666ce767a4bf3
 ServerFileName = erensikismoduv1.1update.exe
 Flags = Critical
 RegistryKey = HKUD\Software\greenfrog\Eren Sikiþ Modu\Version
-Version = 1.1.0.0
+Version = 1.2.0.0
 UpdatedApplications = Eren Sikiþ Modu[1.0-1.1);ErenSikisModuGuncelleme[1.0-1.1)
 TargetOsMinVersion = 1.0
 Description = EKLENEN MODLAR;
